@@ -49,8 +49,12 @@ The dashboard allows filtering by **Region, Category, and Sub-Category**, and di
 
 ---
 
-## 📊 Example Screenshot
+## 📊 Dashboard Screenshot
+<img width="1866" height="982" alt="image" src="https://github.com/user-attachments/assets/f34ce8fd-770a-436a-8ca8-906b9f525014" />
+<img width="1862" height="963" alt="image" src="https://github.com/user-attachments/assets/fe0ee860-b5cf-48be-8566-7be64628c41b" />
+<img width="1867" height="971" alt="image" src="https://github.com/user-attachments/assets/4722ca18-5cc2-41ba-8f23-83885a697df1" />
 
 
-## 📜 License
-This project is for **educational purposes**.
+
+
+
